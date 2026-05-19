@@ -96,6 +96,7 @@ arrow = { version = "58.0.0", features = [
     "chrono-tz",
 ] }
 arrow-buffer = { version = "58.0.0", default-features = false }
+arrow-data = { version = "58.0.0", default-features = false }
 arrow-flight = { version = "58.0.0", features = [
     "flight-sql-experimental",
 ] }
